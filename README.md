@@ -20,7 +20,7 @@ This project focuses on predicting carbon sequestration capacity for **Zhumadian
 
 ## Citation
 If you use this project in your academic work, please cite it as:
-"Carbon Sequestration Prediction Project (Zhumadian City, Dec 2023 - May 2024), [Your Name/GitHub Profile], 2026."
+"Carbon Sequestration Prediction Project (Zhumadian City, Dec 2023 - May 2024), Jia Wenru, 2026."
 
 ## Contact
-For research inquiries, please reach out via [Your Email].
+For research inquiries, please reach out via [jiawenru@henu.edu.cn](mailto:jiawenru@henu.edu.cn).
