@@ -9,9 +9,8 @@ This project focuses on predicting carbon sequestration capacity for **Zhumadian
 ## Study Area & Data
 - **Study Area**: Zhumadian City, China.
 - **Temporal Scope**: Monthly time-series data from December 2023 to May 2024.
-- **Dataset**: The study leverages monthly carbon sequestration estimation results as the core input for predictive modeling.
-
-- **Data Access**: [Click here to access the monthly Zhumadian Carbon Sequestration Datasets (Dec 2023 - May 2024)](https://drive.google.com/file/d/1vsYt3tHwH80UmcVFetNktR9yEnk6wTWB/view?usp=sharing)
+- **Dataset Description**: The study utilizes monthly carbon sequestration estimation results as the core input for predictive modeling.
+- **Data Availability**: The processed monthly datasets for Zhumadian (Dec 2023 - May 2024) are publicly available here: [Download Zhumadian Carbon Sequestration Datasets](https://drive.google.com/file/d/1vsYt3tHwH80UmcVFetNktR9yEnk6wTWB/view?usp=sharing)
 
 ## Research Objectives
 1. **Time-series Analysis**: Analyzing the monthly trends and variations of carbon sequestration patterns in Zhumadian City.
