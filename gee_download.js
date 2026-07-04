@@ -1,7 +1,3 @@
-/**
- * 许昌市逐月 Landsat 8 生产力与全指数合成 (30m)
- * 改进：使用 MOD17A2HGF (Gap-Filled) 解决冬季数据缺失报错
- */
 var zhumadian = ee.FeatureCollection("projects/bold-listener-471612-n5/assets/zhumadian");
 var ROI = zhumadian;
 Map.centerObject(ROI, 10);
